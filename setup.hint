@@ -1,0 +1,5 @@
+category: Editors KDE
+requires: libgcc1 libglib2.0_0 libinfinity0.4_0 libkdecore5 libqinfinity2 libQtCore4 libQtGui4 libQtNetwork4 libstdc++6
+sdesc: "KDE Infinote collaborative text editor"
+ldesc: "Kobby is a collaborative text editor for KDE.  It uses the 
+infinote protocol, making it compatible with other collaborative editors."
