@@ -1,5 +1,0 @@
-inherit kde4
-
-
-HOMEPAGE="http://kobby.greghaynes.net/"
-SRC_URI="http://kobby.greghaynes.net/file-cabinet/${P}.tar.gz?attredirects=0&d=1"

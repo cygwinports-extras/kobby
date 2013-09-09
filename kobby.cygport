@@ -1,0 +1,12 @@
+inherit kde4
+
+NAME="kobby"
+VERSION=1.0b5
+RELEASE=1
+CATEGORY="Editors"
+SUMMARY="KDE Infinote collaborative text editor"
+DESCRIPTION="Kobby is a collaborative text editor for KDE.  It uses the
+infinote protocol, making it compatible with other collaborative editors."
+HOMEPAGE="http://kobby.greghaynes.net/"
+SRC_URI="http://kobby.greghaynes.net/file-cabinet/kobby-${VERSION}.tar.gz?attredirects=0&d=1"
+PATCH_URI="1.0b5-glib231.patch"
